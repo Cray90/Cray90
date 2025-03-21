@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cray90
+- 👋 Hi, I’m @Sujal90
 - 👀 I’m interested in coding & gaming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on building new businesses 
